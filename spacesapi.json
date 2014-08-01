@@ -1,0 +1,22 @@
+{
+    "api": "0.13",
+    "space": "Maschinendeck",
+    "logo": "http://maschinendeck.org/images/blacktocat.png",
+    "url": "http://maschinendeck.org",
+    "location": {
+        "address": "Behringstraße 21, 54296 Trier, Germany",
+        "lon": 6.675,
+        "lat": 49.748
+    },
+    "contact": {
+        "ml": "public@maschinendeck.org",
+        "twitter": "@fidepus",
+        "jabber": "fidepus@maschinendeck.org"
+    },
+    "issue_report_channels": [
+        "twitter"
+    ],
+    "state": {
+        "open": false
+    }
+}
