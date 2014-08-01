@@ -1,0 +1,9 @@
+name: Maschinendeck
+url: http://maschinendeck.org
+description: Haker, Maker & Nerd Space in Trier, Germany
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+highlighter: true
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
