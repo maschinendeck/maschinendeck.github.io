@@ -126,6 +126,10 @@ h3 {
 	border: none;
 }
 
+#header h1+p {
+	margin-bottom: 0pt;
+} 
+
 #footer {
 	width: 500px;
 	margin: 50px auto 20px auto;
