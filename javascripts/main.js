@@ -4,7 +4,7 @@ function updateSpaceState(spaceStateElement) {
 
 	$.getJSON("http://state.maschinendeck.org/spaceapi.php", function(response){
 
-		var statusText = "Status: " + (response.state.open ? "Offen" : "Geschlossen");
+		var statusText = "Raumstatus: " + (response.state.open ? "Offen" : "Geschlossen");
         var statusField = $("#space_open_status");
         spaceStateElement.text(statusText);
         if (response.state.open) {
