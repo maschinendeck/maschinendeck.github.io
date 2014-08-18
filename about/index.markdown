@@ -10,7 +10,19 @@ Mit dem Maschinendeck e.V. haben wir uns zum Ziel gesetzt in Trier einen Ort zu 
 Da wir uns noch in der Aufbauphase befinden wechselt unser Treffpunkt zur Zeit noch. Im Moment gibt es auch nur ein festes, wöchentliches Treffen. Nämlich jeden **Mittwoch, 20:00 Uhr**. Der Ort wird kurz vorher auf der [Mailingliste](https://mailings.brandin.de/listinfo/public) bekannt gegeben.
 
 ### Kontakt
-Alle Besprechungen finden bisher auf der öffentlichen [Mailingliste](https://mailings.brandin.de/listinfo/public) statt. Außerdem gibt es einen IRC Chan(irc://freenode.net/#maschinendeck).
+*   [Web][]
+*   [E-Mail][]
+*   [Mailingliste][]
+*   [Twitter][]
+*   [Github][]
+*   [IRC][]
+
+  [Web]: http://maschinendeck.org
+  [E-Mail]: mailto:kontakt@maschinendeck.org
+  [Mailingliste]: https://mailings.brandin.de/listinfo/public
+  [Twitter]: http://twitter.com/Maschinendeck_
+  [Github]: http://github.com/Maschinendeck
+  [IRC]: irc://freenode.net/#maschinendeck
 
 ### Dokumente
 Wir haben
