@@ -9,8 +9,8 @@ Hinweise zur allgemeinen Kontaktaufnahme gibt es im [Kontakt-Bereich](http://www
 
 Anschrift:
 <address>
-Maschinendeck e. V.
-Simon Gräser, Christian Schwarz, David Philippi
-Güterstr. 63
+Maschinendeck e. V.<br />
+Simon Gräser, Christian Schwarz, David Philippi<br />
+Güterstr. 63<br />
 54295 Trier
 </address>
