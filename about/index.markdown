@@ -33,10 +33,4 @@ Wir haben
 
 ### Kontoverbindung
 
-Unsere Kontoverbindung lautet
-
-* Kontoinhaber: Maschinendeck e.V.
-* IBAN: DE83585501300001071703
-* BIC: TRISDE55XXX
-
-Wir nehmen darauf eure Mitgliedsbeiträge und Geldspenden in jeder Höhe entgegen.
+Gibt's auf Anfrage.
