@@ -10,15 +10,25 @@ Als Mitglied solltet ihr auch eine Einladung an die e-Mail Adresse bekommen habe
 
 
 Auf der Tagesordnung stehen folgende Punkte:
+
 * Begrüßung und Feststellung der Beschlussfähigkeit
+
 * Wahl von Versammlungsleiter und Protokollführer
+
 * Beschluss der Geschäftsordnung der Mitgliederversammlung
+
 * Tätigkeits- und Finanzbericht des Vorstands
+
 * Bericht der Kassenprüfer
+
 * Abstimmung über die Entlastung des Vorstands
+
 * Vorstandswahlen
+
 * Wahl der Kassenprüfer
+
 * Meinungsbild: Soll der Verein einen eignen Server mieten und betreiben?
+
 * Sonstiges
 
 
