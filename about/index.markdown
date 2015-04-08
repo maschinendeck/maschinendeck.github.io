@@ -33,4 +33,4 @@ Wir haben
 
 ### Kontoverbindung
 
-Gibt's auf Anfrage.
+![Kontoverbindung]({{ site.url }}/images/konto.png)
