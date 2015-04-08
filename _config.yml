@@ -1,6 +1,6 @@
 name: Maschinendeck
 url: http://www.maschinendeck.org
-description: Haker, Maker & Nerd Space in Trier, Germany
+description: Hacker, Maker & Nerd Space in Trier, Germany
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
