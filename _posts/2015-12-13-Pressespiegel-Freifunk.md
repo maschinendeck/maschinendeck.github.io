@@ -1,5 +1,5 @@
 ---
-title: Pressespiegel: Freifunk
+title: Pressespiegel&#58; Freifunk
 layout: post
 ---
 

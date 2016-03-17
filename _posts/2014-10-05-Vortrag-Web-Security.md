@@ -1,5 +1,5 @@
 ---
-title: Vortrag: Web Security
+title: Vortrag&#58; Web Security
 layout: post
 ---
 
