@@ -1,5 +1,5 @@
 ---
-title: Vortrag: Mindool - Changing your community one idea at a time
+title: Vortrag&#58; Mindool - Changing your community one idea at a time
 layout: post
 ---
 
