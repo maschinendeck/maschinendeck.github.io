@@ -11,6 +11,6 @@ Anschrift:
 <address>
 Maschinendeck e. V.<br />
 Simon Gräser, Stefan Ludowicy, David Philippi<br />
-Güterstr. 63<br />
+Güterstr. 74<br />
 54295 Trier
 </address>
