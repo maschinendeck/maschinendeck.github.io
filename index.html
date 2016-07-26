@@ -1,49 +1,86 @@
 ---
 layout: default
-title: Maschinendeck
 ---
 
-{% for post in paginator.posts %}
+<div class="splash"></div>
 
-	<article class="post">
+<div class="container welcome">
+  <div class="row">
+    <div class="col-md-4">
+      <h2>Die Idee</h2>
+      <p>
+        Mit dem Maschinendeck e.V. haben wir uns zum Ziel gesetzt in Trier einen Ort zu schaffen, in dem alle Arten von Nerdkultur ein Zuhause finden können. Ob du coden, löten, Kaffee rösten, Brettspiele spielen oder deine neueste Verschwörungstheorie besprechen
+        willst: im Maschinendeck gibt es einen Platz für dich.
+      </p>
+    </div>
+    <div class="col-md-4 col-md-offset-1">
+      <h2>Vorbei kommen</h2>
+      <p>Packt also eure Lieblingshardware ein und besucht uns beim regelmäßigen Chaostreff jeden Mittwoch um 20:00 Uhr in der Güterstr. 74, 54295 Trier!</p>
+    </div>
+    <div class="col-md-2 col-md-offset-1">
+      <p id="space_state">Raumstatus: [...]</p>
+      <p>
+        <ul class="social-media-list">
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {% if site.github_username %}
+          <li>
+            {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %} {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+          <li>
+            <a href="https://mailings.brandin.de/listinfo/public">Mailingliste</a>
+          </li>
+          <li>
+            <a href="http://pad.maschinendeck.org/">Etherpad</a>
+          </li>
+          <li>
+            <a href="https://kiwiirc.com/client/irc.freenode.net/maschinendeck">Webchat</a>
+          </li>
+          <li>
+            <a href="http://www.maschinendeck.org/feed.xml">RSS feed</a>
+          </li>
+        </ul>
+      </p>
+    </div>
+  </div>
+  <hr />
+  <div class="row">
+    <div class="col-md-9">
 
-		{% if post.external-url %}
-			<h1>
-				<a href="{{ post.external-url }}">{{ post.title }}</a>
-				<a class="anchor" href="{{ post.url }}"><i class="icon-anchor"></i></a>
-			</h1>
-		{% else %}
-			<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-		{% endif %}
+      <h2>Blog</h2>
 
-		<div class="post-content">{{ post.content }}</div>
+      <ul class="post-list">
+        {% for post in site.posts %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
 
-	</article>
+          <p>
+            {{ post.content | strip_html | truncatewords:35}}
+          </p>
+        </li>
+        {% endfor %}
+      </ul>
 
-{% endfor %}
+      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+    </div>
+    <div class="col-md-3">
+      <a class="twitter-timeline" data-height="1200" data-dnt="true" data-theme="light" href="https://twitter.com/Maschinendeck_">Tweets by Maschinendeck_</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+    </div>
+  </div>
+</div>
 
 
-
-{% if paginator.total_pages > 1 %}
-	<div class="postnavigation">
-
-		{% if paginator.previous_page %}
-			{% if paginator.page == 2 %}
-				<a class="prev left" href="/">&larr; Newer</a>
-			{% else %}
-				<a class="prev left" href="/page{{paginator.previous_page}}/">&larr; Newer</a>
-			{% endif %}
-		{% else %}
-			<span class="nope left">&larr; Newer</span>
-		{% endif %}
-
-		<span class="pages">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-
-		{% if paginator.next_page %}
-			<a class="next right" href="/page{{paginator.next_page}}/">Older &rarr;</a>
-		{% else %}
-			<span class="nope right">Older &rarr;</span>
-		{% endif %}
-
-	</div>
-{% endif %}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="/js/main.js"></script>
+<script>
+  $(document).ready(function(){
+    updateSpaceState($("#space_state"));
+  });
+</script>
