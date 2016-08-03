@@ -9,7 +9,7 @@ Vom 28.07. bis 31.07. war das [HaxoGreen Hackercamp 2016](https://haxogreen.lu/)
 Das bedeutete vier Tage Campen, Hacken und Chillen mit ~100 Leuten.
 
 
-<img src="/images/hg2016/IMG_3184.JPG" width="360px" />
+<img src="/images/hg2016/IMG_3184-small.JPG" width="360px" />
 
 
 Das [Programm](https://wiki.haxogreen.lu/2016/wiki/Schedule) war dabei sehr abwechslungsreich.
