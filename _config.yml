@@ -9,7 +9,7 @@ permalink: /:year/:month/:day/:title/
 # highlighter: pygments
 
 baseurl: "" # the subpath of your site, e.g. /blog
-email: info@maschinendeck.org
+email: kontakt@maschinendeck.org
 twitter_username: Maschinendeck_
 github_username:  maschinendeck
 
