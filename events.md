@@ -15,7 +15,7 @@ Es gibt einige regelmäßige Treffen:
     - Neuigkeiten austauschen
     - Projekte und Ideen ausarbeiten
   - Das [Trierer Python Meetup](http://www.meetup.com/de-DE/PythonTrier/) findet jeden zweiten Dienstag im Monat statt.
-
+  - Jeden ersten Montag des Monats findet der Freifunk Stammtisch an einem immer wechselnden Ort statt. Aktuelle Informationen sind auf [trier.freifunk.net](https://trier.freifunk.net/) zu finden.
 Weiterhin gibt es unregelmäßige Veranstaltungen, die dann über die Website, [Mailingliste](https://mailings.brandin.de/listinfo/public), und Mundpropaganda weitergegeben werden.
 
 

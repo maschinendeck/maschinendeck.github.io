@@ -46,7 +46,7 @@ und technischem Hintergrund.
 
 <div class="row">
 <div class="col-md-12">
-<img src="/images/raum-1.png" />
+<img src="/images/maschinendeck.jpg" />
 </div>
 </div>
 
