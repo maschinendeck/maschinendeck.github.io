@@ -15,13 +15,14 @@ Ein <a href="https://de.wikipedia.org/wiki/Hackerspace" target="blank">Hackerspa
 <ul>
   <li>ist ein physischer Ort,</li>
   <li>der Menschen die Umgebung zur Verfügung stellen soll, um eigenverantwortlich Projekte zu realisieren.</li>
-  <li>Es soll ein offener Raum sein, der grundsätzlich für jeden zugänglich ist.</li>
+  <li>Es soll ein offener Raum sein, der grundsätzlich für alle zugänglich 
+ist.</li>
   <li>Dabei ist der Raum weitgehend selbstorganisiert und wird von einem Verein getragen.</li>
 </ul>
 </p>
 
 <p>
-Den Besuchern steht einiges an Infrastruktur zur Verfügung:
+Den Besucher*innen steht einiges an Infrastruktur zur Verfügung:
 
 <ul>
   <li>Internet, Netzwerk und Strom</li>
@@ -30,13 +31,13 @@ Den Besuchern steht einiges an Infrastruktur zur Verfügung:
   <li>Getränke: Club Mate, Kaffee, Wasser und Tee</li>
 </ul>
 
-Der Raum kann von den Mitgliedern über ein elektronisches Schließsystem betreten werden.
+Der Raum kann von den Mitglieder*innen über ein elektronisches Schließsystem betreten werden.
 </p>
 
 <p>
 Es soll ein Ort sein, an dem man sich mit Gleichgesinnten treffen und diskutieren kann.
-Dabei wird versucht eine inklusive Atmosphäre für jeden zu schaffen, unabhängig von Geschlecht,
-sexueller Orientierung, Behinderung, physikalischer Erscheinung, Körpergröße, Rasse, Religion,
+Dabei wird versucht eine inklusive Atmosphäre für alle zu schaffen, unabhängig von Geschlecht,
+sexueller Orientierung, Behinderung, physikalischer Erscheinung, Körpergröße, Religion,
 und technischem Hintergrund.
 </p>
 

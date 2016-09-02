@@ -4,9 +4,10 @@ title: Veranstaltungen
 permalink: /events/
 ---
 
-Der Raum kann von Mitgliedern über ein elektronisches Schließsystem betreten werden.
-Falls jemand Interesse hat selbst was zu organisieren, oder den Raum für eine Veranstaltung nutzen will, kann er z.B. per E-Mail anfragen.
-Jeder Interessierte ist grundsätzlich für jede Veranstaltung eingeladen.
+Der Raum kann von Mitglieder*innen über ein elektronisches Schließsystem 
+betreten werden.
+Alle, die Interesse haben, selbst was zu organisieren, oder den Raum für eine Veranstaltung nutzen wollen, können z.B. per E-Mail anfragen.
+Jede*r Interessierte ist grundsätzlich für jede Veranstaltung eingeladen.
 
 Es gibt einige regelmäßige Treffen:
 
