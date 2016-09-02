@@ -35,10 +35,11 @@ Der Raum kann von den Mitglieder*innen über ein elektronisches Schließsystem b
 </p>
 
 <p>
-Es soll ein Ort sein, an dem man sich mit Gleichgesinnten treffen und diskutieren kann.
+Das Maschinendeck soll ein Ort sein, an dem man sich mit Gleichgesinnten treffen und diskutieren kann.
 Dabei wird versucht eine inklusive Atmosphäre für alle zu schaffen, unabhängig von Geschlecht,
 sexueller Orientierung, Behinderung, physikalischer Erscheinung, Körpergröße, Religion,
-und technischem Hintergrund.
+und technischem Hintergrund.<br />
+Rassismus oder sonstige Formen von menschenverachtendem Verhalten haben bei uns keinen Platz.
 </p>
 
 
