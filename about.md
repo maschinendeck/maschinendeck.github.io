@@ -9,7 +9,7 @@ permalink: /about/
 
 Der Verein ist dazu da, die grundlegenden Dinge zu organisieren.
 Eine Mitgliedschaft ist erwünscht, aber nicht erforderlich.
-Mitglieder*innen helfen bei der Finanzierung des Raumes und den Laden am Laufen zu halten.
+Mitglieder helfen bei der Finanzierung des Raumes und den Laden am Laufen zu halten.
 
 
 
