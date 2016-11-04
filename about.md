@@ -7,7 +7,7 @@ permalink: /about/
 
 #### Der Verein
 
-Der Verein ist dazu da, die grundlegenden Dinge zu organisieren.
+Der Verein ist dazu da, die grundlegenden Dinge für den Space zu organisieren.
 Eine Mitgliedschaft ist erwünscht, aber nicht erforderlich.
 Mitglieder helfen bei der Finanzierung des Raumes und den Laden am Laufen zu halten.
 
