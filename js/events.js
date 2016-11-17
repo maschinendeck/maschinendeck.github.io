@@ -3,7 +3,6 @@ $(function() {
   // invoke via proxy: https://wiki.maschinendeck.org/wiki/Special:Ask/-5B-5BDate::%2B-5D-5D/-3FIs-20instance-20of%3Dsummary/-3FDate%3Dstart/-3FLocation%3Dlocation/format%3Djson/limit%3D5000/searchlabel%3DJSON-20Export/offset%3D0
 
   var decodeEventItem = function(data) {
-    console.log(data);
     var event = {};
 
     if (data.printouts.summary[0]) {
@@ -15,7 +14,7 @@ $(function() {
     }
 
     if (data.printouts.start) {
-      event.start = moment.unix(data.printouts.start[0]);
+      event.start = moment.unix(data.printouts.start[0] - 3600);
     }
 
     if (data.printouts.location[0]) {
