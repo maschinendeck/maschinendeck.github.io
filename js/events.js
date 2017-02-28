@@ -14,7 +14,7 @@ $(function() {
     }
 
     if (data.printouts.start) {
-      event.start = moment.unix(data.printouts.start[0] - 3600);
+      event.start = moment.unix(data.printouts.start[0].timestamp - 3600);
     }
 
     if (data.printouts.location[0]) {

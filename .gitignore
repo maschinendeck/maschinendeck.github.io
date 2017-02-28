@@ -5,4 +5,4 @@ _site/
 .jekyll-metadata
 *.iml
 .idea
-
+Gemfile*
