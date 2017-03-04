@@ -27,8 +27,6 @@ Weiterhin gibt es unregelmäßige Veranstaltungen, die dann über die Website, [
 #### Kommende Veranstaltungen
 
 <p class="upcoming-events"></p>
-- Cryptoparty am 25.11.2017 im Haus der Jugend in Bitburg<br>
-In Kooperation mit der Fachstelle für Kinder- und Jugendpastoral Bitburg veranstallten wir eine Cryptoparty. Weitere Infos dazu unter [http://cryptoparty.maschinendeck.org/](http://cryptoparty.maschinendeck.org/).
 
 #### Vergangene Veranstaltungen
 
