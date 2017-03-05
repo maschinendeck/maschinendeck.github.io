@@ -38,7 +38,7 @@ $(function() {
     upcomingEventsDiv.empty();
 
     var isRegular  = function(e) { return (e.title == "Treffen" || e.title == "Python Trier Meetup") };
-    var isPrevious = function(e) { return (e.start / 1000) < approxNow; };
+    var isPrevious = function(e) { return (e.start / 1000) < approxNow && !isRegular(e); };
     var isUpcoming = function(e) { return !isPrevious(e) && !isRegular(e) };
 
     var events = $.map(data.results, decodeEventItem);
