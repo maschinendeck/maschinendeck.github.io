@@ -14,15 +14,26 @@
           </svg>
         </a>
 
-        <div class="trigger">
-          <a class="page-link" href="/raum">Der Raum</a>
-          <a class="page-link" href="/events">Termine</a>
-          <a class="page-link" href="/about">Verein</a>
-          <a class="page-link" href="/contact">Kontakt &amp; Anfahrt</a>
-          <a class="page-link" href="https://wiki.maschinendeck.org">Wiki</a>
-          <!-- <a class="page-link" href="/projects">Projekte</a>
-          <a class="page-link" href="/peoples">Leute</a> -->
-        </div>
+
+	<div class="trigger">
+  	    {% for menu in site.t[page.lang] %}
+    		<a class="page-link" href="{{ menu[1].url }}">{{ menu[1].name }}</a>
+  	    {% endfor %}
+	
+            <span> | </span>
+
+            {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+            {% for post in posts %}
+                <a href="{{ post.url }}" class="page-lang {{ post.lang }}">{{ post.lang }}</a>
+            {% endfor %}
+
+            {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+            {% for page in pages %}
+                <a href="{{ page.url }}" class="page-lang {{ page.lang }}">{{ page.lang }}</a>
+            {% endfor %}
+
+	</ul>
+
       </nav>
 
     </div>

@@ -113,3 +113,12 @@
   margin-top: 10px;
   margin-bottom: 10px;
 }
+
+.en:lang(en), .de:lang(de) {
+    font-weight: bold;
+    color: black;
+}
+
+.page-lang, .page-lang a, .page-lang:visited, .page-lang:hover {
+   color: black;
+}
