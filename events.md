@@ -2,6 +2,8 @@
 layout: page
 title: Veranstaltungen
 permalink: /events/
+lang: de
+ref: events
 ---
 
 Der Raum kann von Mitgliedern über ein elektronisches Schließsystem 

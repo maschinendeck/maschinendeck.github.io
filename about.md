@@ -2,8 +2,9 @@
 layout: page
 title: Über uns
 permalink: /about/
+lang: de
+ref: about
 ---
-
 
 #### Der Verein
 
@@ -33,3 +34,4 @@ Wir haben
 #### Kontoverbindung
 
 ![Kontoverbindung](/images/konto.png)
+

@@ -2,6 +2,8 @@
 layout: page
 title: Der Raum
 permalink: /raum/
+lang: de
+ref: room
 ---
 
 
