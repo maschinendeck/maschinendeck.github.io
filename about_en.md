@@ -15,7 +15,7 @@ Members help to finance the space and to keep the club running.
 
 #### History
 
-During our founding we met in the Univerity, later we got into the rooms of the Netzwerkstadt. Now we are one step further and have our own space and are flexible about spontaneous hacksessions, events or meetups.
+During our founding we met in a room at the University, later we got into the rooms of the Netzwerkstadt. Now we are one step further and have our own space and are flexible about spontaneous hacksessions, events or meetups.
 
 #### Documents
 

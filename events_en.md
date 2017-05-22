@@ -16,9 +16,8 @@ There are some regular meetups:
     - Exchange news
     - Develop projects and ideas
   - The [Python Meetup Trier](http://www.meetup.com/de-DE/PythonTrier/), every second Tuesday of a month
-  - Every first monday of a month there is the Freifunk Stammtisch at a changing place. You can find further information at [trier.freifunk.net](https://trier.freifunk.net/).
+  - Every first monday of a month there is the Freifunk Stammtisch at a changing location. You can find further information at [trier.freifunk.net](https://trier.freifunk.net/).
 
-Weiterhin gibt es unregelmäßige Veranstaltungen, die dann über die Website, [Mailingliste](https://mailings.brandin.de/listinfo/public), und Mundpropaganda weitergegeben werden.
 Also there are events which will be announced on the website or the [Mailinglist (Mostly German)](https://mailings.brandin.de/listinfo/public).
 
 
