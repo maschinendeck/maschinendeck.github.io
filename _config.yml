@@ -28,6 +28,9 @@ t:
     about:
       name: "Verein"
       url: "/about/"
+    FAQ:
+      name: "FAQ"
+      url: "/faq/"
     contact:
       name: "Kontakt & Anfahrt"
       url: "/contact/"
