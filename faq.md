@@ -12,7 +12,7 @@ ref: faq
 * A: JA.
 
 * *F: Wann ist denn jemand da?*
-* A: Auf jeden Fall Mittwochs ab 20:00 Uhr, aber meld dich mal im <a href="https%3A%2F%2Fkiwiirc.com%2Fclient%2Firc.freenode.net%2Fmaschinendeck">Chat</a>, da können andere Treffen abgesprochen werden.
+* A: Auf jeden Fall Mittwochs ab 20:00 Uhr, aber meld dich mal im <a href="https://kiwiirc.com/client/irc.freenode.net/maschinendeck">IRC</a>/<a href="https://maschinendeck.slack.com">Slack</a>, da können andere Treffen abgesprochen werden.
 
 * *F: Was macht ihr denn da so?*
 * A: Das liegt ganz an den anwesenden Leuten. Es gibt keine festgelegte Ordnung, was wann gehackt werden soll. Jeder bringt seine Ideen und Projekte mit und dann findet man sich entweder zusammen, oder arbeitet alleine dran.
