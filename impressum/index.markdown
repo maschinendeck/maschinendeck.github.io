@@ -10,7 +10,7 @@ Hinweise zur allgemeinen Kontaktaufnahme gibt es im [Kontakt-Bereich](http://www
 Anschrift:
 <address>
 Maschinendeck e. V.<br />
-Simon Gräser, Stefan Ludowicy, David Philippi<br />
+Simon Gräser, David Philippi<br />
 Güterstr. 74<br />
 54295 Trier
 </address>
