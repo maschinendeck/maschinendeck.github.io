@@ -33,5 +33,7 @@ Wir haben
 
 #### Kontoverbindung
 
+Wir bitten von zweckgebundenen Spenden abzusehen. Damit handeln wir uns im Ernstfall Probleme mit dem Finanzamt ein.
+
 ![Kontoverbindung](/images/konto.png)
 
