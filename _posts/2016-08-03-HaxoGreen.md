@@ -1,6 +1,7 @@
 ---
 title: HaxoGreen 2016
 layout: post
+lang: de
 ---
 
 

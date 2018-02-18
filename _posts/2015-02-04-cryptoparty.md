@@ -1,6 +1,7 @@
 ---
 title: Schnell, bevor es verboten ist! - Cryptoparty im Maschinendeck
 layout: post
+lang: de
 ---
 
 Die Enthüllungen um Snowden haben deutlich gemacht, dass Betrüger, Spammer, Geheimdienste und andere Kriminelle an unsere Daten wollen. Dagegen hilft nur sichere Verschlüsselung.

@@ -1,6 +1,7 @@
 ---
 title: Cryptoparty Nachlese
 layout: post
+lang: de
 ---
 
 Unsere erste Cryptoparty ist zu Ende und darft mit 20 Teilnehmern gerne als erfolgreich angesehen werden. Wissen wurde ausgetauscht, Fragen beantwortet und natürlich Mate getrunken.
