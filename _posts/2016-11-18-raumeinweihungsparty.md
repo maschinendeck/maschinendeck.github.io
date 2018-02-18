@@ -1,6 +1,7 @@
 ---
 title: Raumeinweihungsparty!
 layout: post
+lang: de
 ---
 
 Da wir jetzt schon seit ca. einem ¾ Jahr einen [eigenen Raum](http://www.maschinendeck.org/2016/03/17/Raum/) in der Güterstraße haben, wird es nun höchste Zeit für eine offizielle Einweihungsparty.
@@ -12,5 +13,3 @@ Am besten tragt ihr euch dazu in den [Wikieintrag](http://wiki.maschinendeck.org
 Für das leibliche Wohl sorgen der Linsensuppenbeauftragte Stefan und der Hot-Dog-Beauftrage y0sh.
 
 Also kommt einfach vorbei und genießt die gemütliche Atmosphäre und vielleicht ein paar Tschunks vom Tschunkbeauftragten Energy.
-
-

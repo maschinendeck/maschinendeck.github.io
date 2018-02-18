@@ -1,6 +1,7 @@
 ---
 title: Chaostreff an der FH, Pi & More.
 layout: post
+lang: de
 ---
 
 Wir sind leider immer noch ohne Räumlichkeiten.
@@ -13,7 +14,7 @@ Da die Hochschule verkehrstechnich nicht so gut gelegen ist werden eigentlich je
 gebildet. Hierfür schaut ihr am besten vorher im IRC vorbei.
 
 Außerdem werden wir am 24.2. zur [Pi and More](http://piandmore.de) nach Stuttgart reisen. Dort wird es einen Tag lang Vorträge und Workshops zum Thema Raspberry Pi und Embedded Systeme geben.
-In einem dieser Workshops werden euch Eileen und towa vom Maschinendeck anhand unseres 
+In einem dieser Workshops werden euch Eileen und towa vom Maschinendeck anhand unseres
 Maschinendeckbadges das Löten beibringen.
 Und natürlich gibt es auch wieder Kuchen.
 Vorbei kommen lohnt also :)

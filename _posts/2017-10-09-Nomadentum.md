@@ -1,6 +1,7 @@
 ---
 title: Nomadentum
 layout: post
+lang: de
 ---
 
 

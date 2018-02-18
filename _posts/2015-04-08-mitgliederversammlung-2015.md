@@ -1,6 +1,7 @@
 ---
 title: Mitgliederversammlung 2015
 layout: post
+lang: de
 ---
 
 Liebe Mitglieder,
