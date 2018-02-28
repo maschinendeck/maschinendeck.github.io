@@ -15,26 +15,27 @@
         </a>
 
 
-      <div class="trigger">
-  	    {% for menu in site.t[page.lang] %}
-    		  <a class="page-link" href="{{ menu[1].url }}">{{ menu[1].name }}</a>
-  	    {% endfor %}
+        <div class="trigger">
+    	    {% for menu in site.t[page.lang] %}
+      		  <a class="page-link" href="{{ menu[1].url }}">{{ menu[1].name }}</a>
+    	    {% endfor %}
 
-        {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-        {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+          {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+          {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
 
-        {% if pages.size > 0 or posts.size > 0 %}
-          <span> | </span>
+          {% if pages.size > 0 or posts.size > 0 %}
+            <span> | </span>
 
-          {% for post in posts %}
-            <a href="{{ post.url }}" class="page-lang {{ post.lang }}">{{ post.lang }}</a>
-          {% endfor %}
+            {% for post in posts %}
+              <a href="{{ post.url }}" class="page-lang {{ post.lang }}">{{ post.lang }}</a>
+            {% endfor %}
 
-          {% for page in pages %}
-            <a href="{{ page.url }}" class="page-lang {{ page.lang }}">{{ page.lang }}</a>
-          {% endfor %}
-        {% endif %}
+            {% for page in pages %}
+              <a href="{{ page.url }}" class="page-lang {{ page.lang }}">{{ page.lang }}</a>
+            {% endfor %}
+          {% endif %}
 
+        </div>
       </nav>
 
     </div>
