@@ -23,6 +23,4 @@ Weitere Informationen: [cryptoparty.in/trier](http://cryptoparty.in/trier)
 
 
 
-![Cryptoparty Symbolfoto]({{ site.url }}/images/cryptoparty.jpg)
-
-Foto CC-BY-SA David Philippi
+![Cryptoparty Poster]({{ site.url }}/images/cryptoparty18.png)
