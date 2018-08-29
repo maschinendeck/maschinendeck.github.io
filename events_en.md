@@ -26,6 +26,8 @@ Also there are events which will be announced on the website or the [Mailinglist
 
 <p class="upcoming-events"></p>
 
+2018-09-24 20.00 Uhr - Cryptoparty
+
 #### Previous Events
 
 <p class="previous-events"></p>
