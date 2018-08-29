@@ -30,6 +30,8 @@ Weiterhin gibt es unregelmäßige Veranstaltungen, die dann über die Website, [
 
 <p class="upcoming-events"></p>
 
+2018-09-24 20.00 Uhr - Cryptoparty
+
 #### Vergangene Veranstaltungen
 
 <p class="previous-events"></p>
