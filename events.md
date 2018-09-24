@@ -30,7 +30,13 @@ Weiterhin gibt es unregelmäßige Veranstaltungen, die dann über die Website, [
 
 <p class="upcoming-events"></p>
 
-2018-09-24 20.00 Uhr - Cryptoparty
+2018-09-24 20.00 Uhr - Cryptoparty - PGP
+
+2018-10-29 20.00 Uhr - Crpytoparty
+
+2018-11-26 20.00 Uhr - Cryptoparty
+
+-2018-12-24 20.00 Uhr - Cryptoparty-
 
 #### Vergangene Veranstaltungen
 
