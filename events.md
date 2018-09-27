@@ -30,7 +30,7 @@ Weiterhin gibt es unregelmäßige Veranstaltungen, die dann über die Website, [
 
 <p class="upcoming-events"></p>
 
-2018-09-24 20.00 Uhr - Cryptoparty - PGP
+2018-10-03 10.00 Uhr - Hackerfrühstück - genauere Informationen & Anmeldung im Discord-Channel #hacker-frühstück
 
 2018-10-29 20.00 Uhr - Cryptoparty
 
@@ -42,6 +42,7 @@ Weiterhin gibt es unregelmäßige Veranstaltungen, die dann über die Website, [
 
 <p class="previous-events"></p>
 
+2018-09-24 20.00 Uhr - Cryptoparty - PGP
 
 
 <script src="https://cdn.jsdelivr.net/momentjs/2.10.6/moment-with-locales.min.js"></script>

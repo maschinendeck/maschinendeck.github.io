@@ -26,7 +26,7 @@ Also there are events which will be announced on the website or the [Mailinglist
 
 <p class="upcoming-events"></p>
 
-2018-09-24 20.00 - Cryptoparty - PGP
+2018-10-03 10.00 - Hacker-Breakfast - More informations available in our discord-channel #hacker-frühstück
 
 2018-10-29 20.00 - Cryptoparty
 
@@ -38,6 +38,7 @@ Also there are events which will be announced on the website or the [Mailinglist
 
 <p class="previous-events"></p>
 
+2018-09-24 20.00 - Cryptoparty - PGP
 
 
 <script src="https://cdn.jsdelivr.net/momentjs/2.10.6/moment-with-locales.min.js"></script>
