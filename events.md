@@ -34,6 +34,8 @@ Weiterhin gibt es unregelmäßige Veranstaltungen, die dann über die Website, [
 
 2018-10-29 20.00 Uhr - Cryptoparty
 
+2018-11-03           - PiAndMore 11
+
 2018-11-26 20.00 Uhr - Cryptoparty
 
 -2018-12-24 20.00 Uhr - Cryptoparty-
