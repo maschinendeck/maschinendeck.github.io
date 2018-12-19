@@ -40,6 +40,14 @@ Also there are events which will be announced on the website or the [Mailinglist
 
 <p class="previous-events"></p>
 
+2018-11-26 20.00 - Cryptoparty -
+
+2018-11-03       - PiAndMore 11
+
+2018-10-29 20.00 - Cryptoparty - 
+
+2018-10-03 10.00 - Hackerbreakfast
+
 2018-09-24 20.00 - Cryptoparty - PGP
 
 

@@ -27,22 +27,21 @@ Weiterhin gibt es unregelmäßige Veranstaltungen, die dann über die Website, [
 
 
 #### Kommende Veranstaltungen
-
 <p class="upcoming-events"></p>
 
-2018-10-03 10.00 Uhr - Hackerfrühstück - genauere Informationen & Anmeldung im Discord-Channel #hacker-frühstück
-
-2018-10-29 20.00 Uhr - Cryptoparty
-
-2018-11-03           - PiAndMore 11
-
-2018-11-26 20.00 Uhr - Cryptoparty
-
--2018-12-24 20.00 Uhr - Cryptoparty-
+TbA
 
 #### Vergangene Veranstaltungen
 
 <p class="previous-events"></p>
+
+2018-11-26 20.00 Uhr - Cryptoparty - (Ausgefallen wegen fehlendem Vortragenden und Publikum)
+
+2018-11-03           - PiAndmore 11
+
+2018-10-29 20.00 Uhr - Cryptoparty - 
+
+2018-10-03 10.00 Uhr - Hackerfrühstück
 
 2018-09-24 20.00 Uhr - Cryptoparty - PGP
 
