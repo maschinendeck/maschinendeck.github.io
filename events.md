@@ -29,7 +29,13 @@ Weiterhin gibt es unregelmäßige Veranstaltungen, die dann über die Website, [
 #### Kommende Veranstaltungen
 <p class="upcoming-events"></p>
 
-TbA
+2019-02-22 - 2019-02-24 - HIP - HackImPott https://hackimpott.de Tickets ab 24.43 EUR
+
+2019-04-19 - 2019-04-22 - Easterhegg 2019 https://eh19.easterhegg.eu Ticket Phase 0: 2019-01-15 10.00 Uhr CEST
+
+2019-05.30 - 2019-06.02 - GPN19 https://entropia.de/Termine
+
+CCC Camp 2019
 
 #### Vergangene Veranstaltungen
 
