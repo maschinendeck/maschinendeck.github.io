@@ -33,7 +33,7 @@ Weiterhin gibt es unregelmäßige Veranstaltungen, die dann über die Website, [
 
 2019-02-22 - 2019-02-24 - HIP - HackImPott <https://hackimpott.de> Tickets ab 24.43 EUR
 
-2019-04-06              - PaM11.5 Pi And More 11.5 in der HS-Niederrhein <https://piandmore.de>
+2019-04-06              - Pi And More 11.5 in der HS-Niederrhein <https://piandmore.de/de/conference/pam11-5>
 
 2019-04-19 - 2019-04-22 - Easterhegg 2019 <https://eh19.easterhegg.eu> Ticket Phase 0: 2019-01-15 10.00 Uhr CEST
 
@@ -47,7 +47,7 @@ CCC Camp 2019
 
 2018-11-26 20.00 Uhr - Cryptoparty - (Ausgefallen wegen fehlendem Vortragenden und Publikum)
 
-2018-11-03           - PiAndmore 11
+2018-11-03           - PiAndmore 11 in der Uni Trier - <https://piandmore.de/de/conference/pam11>
 
 2018-10-29 20.00 Uhr - Cryptoparty - 
 
