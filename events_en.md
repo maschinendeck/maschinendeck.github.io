@@ -26,19 +26,23 @@ Also there are events which will be announced on the website or the [Mailinglist
 
 <p class="upcoming-events"></p>
 
-2018-10-03 10.00 - Hacker-Breakfast - More informations available in our discord-channel #hacker-frühstück
 
-2018-10-29 20.00 - Cryptoparty
+2019-02-22 - 2019-02-24 - HIP - HackImPott <https://hackimpott.de> Tickets from 24.43 EUR
 
-2018-11-03       - PiAndMore 11
+2019-02-25              - Cryptoparty - Thema: Idendities & eMail
 
-2018-11-26 20.00 - Cryptoparty
+2019-04-06              - Pi And More 11.5 in HS-Niederrhein <https://piandmore.de/de/conference/pam11-5>
 
-2018-12-24 20.00 - Cryptoparty
+2019-04-19 - 2019-04-22 - Easterhegg 2019 <https://eh19.easterhegg.eu> Ticket Phase 0: 2019-01-15 10.00 Uhr CEST
+
+2019-05.30 - 2019-06.02 - GPN19 - <https://entropia.de/Termine>
+
+CCC Camp 2019
 
 #### Previous Events
 
 <p class="previous-events"></p>
+
 
 2018-11-26 20.00 - Cryptoparty -
 
@@ -46,7 +50,7 @@ Also there are events which will be announced on the website or the [Mailinglist
 
 2018-10-29 20.00 - Cryptoparty - 
 
-2018-10-03 10.00 - Hackerbreakfast
+2018-10-03 10.00 - Hackerbreakfast - More informations available in our diccord-channel #hacker-frühstück
 
 2018-09-24 20.00 - Cryptoparty - PGP
 
