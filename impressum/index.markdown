@@ -1,6 +1,9 @@
 ---
-layout: default
+layout: page
 title: Impressum
+permalink: /impressum/
+lang: de
+ref: impressum
 ---
 
 Verantwortlich für den Inhalt dieser Seiten ist der [Maschinendeck e. V.](https://www.maschinendeck.org/about)
