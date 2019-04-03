@@ -10,7 +10,7 @@ Hinweise zur allgemeinen Kontaktaufnahme gibt es im [Kontakt-Bereich](https://ww
 Anschrift:
 <address>
 Maschinendeck e. V.<br />
-Simon Gräser, David Philippi<br />
-Güterstr. 74<br />
+Christian Adams, Clemens Sill, Eileen Neumann<br />
+Eurener Str. 14<br />
 54295 Trier
 </address>
