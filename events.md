@@ -56,6 +56,5 @@ CCC Camp 2019
 2018-09-24 20.00 Uhr - Cryptoparty - PGP
 
 
-<script src="https://cdn.jsdelivr.net/momentjs/2.10.6/moment-with-locales.min.js"></script>
-<script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+<script src="/js/moment-with-locales.min.js"></script>
 <script src="/js/events.js"></script>
