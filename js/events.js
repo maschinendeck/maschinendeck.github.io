@@ -32,7 +32,7 @@ $(function() {
 
     var upcomingEventsDiv = $(".upcoming-events");
     var previousEventsDiv = $(".previous-events");
-		var approxNow = moment().unix() + 3600 * 5;
+    var approxNow = moment().unix() + 3600 * 5;
 
     previousEventsDiv.empty();
     upcomingEventsDiv.empty();
@@ -49,16 +49,17 @@ $(function() {
       var el = $(
         '<div>' + ev.start.format("YYYY-MM-DD") + ' ab ' + ev.start.format("HH:mm") + ' <a href="' + ev.url + '" class="title">' + ev.title + '</a> @ <a href="' + ev.locationUrl + '" class="location">' + ev.location + '</a></div>'
       );
-			previousEventsDiv.append(el);
+      
+      previousEventsDiv.append(el);
     });
 
     $.each(upcomingEvents, function(idx, ev) {
       var el = $(
         '<div>' + ev.start.format("YYYY-MM-DD") + ' ab ' + ev.start.format("HH:mm") + ' <a href="' + ev.url + '" class="title">' + ev.title + '</a> @ <a href="' + ev.locationUrl + '" class="location">' + ev.location + '</a></div>'
       );
-			upcomingEventsDiv.append(el);
+
+      upcomingEventsDiv.append(el);
     });
-
   });
-
 });
+
