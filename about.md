@@ -35,5 +35,9 @@ Wir haben
 
 Wir bitten von zweckgebundenen Spenden abzusehen. Damit handeln wir uns im Ernstfall Probleme mit dem Finanzamt ein.
 
-![Kontoverbindung](/images/konto.png)
+Kontoinhaber: Maschinendeck e.V.  
+IBAN: DE83 5855 0130 0001 0717 03  
+BIC: TRISDE55XXX  
+
+<!-- ![Kontoverbindung](/images/konto.png) -->
 
