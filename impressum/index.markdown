@@ -10,6 +10,8 @@ Verantwortlich für den Inhalt dieser Seiten ist der [Maschinendeck e. V.](https
 
 Hinweise zur allgemeinen Kontaktaufnahme gibt es im [Kontakt-Bereich](https://www.maschinendeck.org/about). Eine Möglichkeit, uns persönlich kennenzulernen, bieten wir auf einem unserer [Treffen](https://wiki.maschinendeck.org/wiki/Der_Raum#Ist).
 
+Datenschutz folgt
+
 Anschrift:
 <address>
 Maschinendeck e. V.<br />
