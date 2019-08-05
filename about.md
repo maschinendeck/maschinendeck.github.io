@@ -10,7 +10,9 @@ ref: about
 
 Der Verein ist dazu da, die grundlegenden Dinge für den Space zu organisieren.
 Eine Mitgliedschaft ist erwünscht, aber nicht erforderlich.
-Mitglieder helfen bei der Finanzierung des Raumes und den Laden am Laufen zu halten.
+Mitglieder helfen bei der Finanzierung des Raumes und den Laden am Laufen zu halten.  
+  
+Der Maschinendeck e. V. ist eingetragen im Vereinsregister des Amtsgerichts Wittlich unter der Vereinsregisternummer 41060.
 
 
 
