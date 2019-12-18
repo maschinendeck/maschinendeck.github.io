@@ -27,4 +27,4 @@ ref: faq
 * A: Vielleicht. Wenn jemand Lust darauf hat. Aber komm doch vorbei und wir machen das zusammen.
 
 * *F: Wo kann man mit euch online in Kontakt treten?*
-* A: Wir haben einen <a href="https:/discord.gg/e5xYxA8">Discord</a>
+* A: Wir kommunizieren über einen <a href="https://discord.gg/e5xYxA8">Discord</a> Server.
