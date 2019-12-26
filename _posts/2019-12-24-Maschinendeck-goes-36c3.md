@@ -19,7 +19,7 @@ Auch auf dem Kongress? Kommt uns doch besuchen!
 Ihr findet uns in [Halle 3, zwischen C4 und Mainframe][1].
 
 ## Kongressinfos
-* MaschinenDECT: **2288**
+* MaschinenDECT: **2288** *(von außerhalb des Kongresses **[+49 46443 82 99 2288](tel:00494644382992288)**)*
 * Maschinendeck Assembly im [36C3 Wiki][2]
 
 ## Mitglieder anwesend
