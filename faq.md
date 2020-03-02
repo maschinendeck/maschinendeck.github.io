@@ -12,7 +12,7 @@ ref: faq
 * A: JA.
 
 * *F: Wann ist denn jemand da?*
-* A: Auf jeden Fall Mittwochs ab 20:00 Uhr, aber meld dich mal im [IRC][1], da können andere Treffen abgesprochen werden.
+* A: Auf jeden Fall Dienstags ab 20:00 Uhr, aber meld dich mal im [IRC][1], da können andere Treffen abgesprochen werden.
 
 * *F: Was macht ihr denn da so?*
 * A: Das liegt ganz an den anwesenden Leuten. Es gibt keine festgelegte Ordnung, was wann gehackt werden soll. Jeder bringt seine Ideen und Projekte mit und dann findet man sich entweder zusammen, oder arbeitet alleine dran.
