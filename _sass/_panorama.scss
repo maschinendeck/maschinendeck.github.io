@@ -1,0 +1,13 @@
+.card {
+	max-width: 500px;
+	max-height: 500px;
+	min-width: 200px;
+	background: white;
+	color: #222;
+	border-radius: 3px;
+	overflow: auto;
+
+	main {
+		padding: 2rem 4rem;
+	}
+}
