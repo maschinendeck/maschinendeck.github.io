@@ -46,6 +46,7 @@ $on-laptop:        800px;
 
 @import "fonts";
 @import "variables";
+@import "mixins";
 @import "bootstrap";
 @import "bootswatch";
 
@@ -54,5 +55,10 @@ $on-laptop:        800px;
 @import "layout";
 @import "header";
 @import "footer";
+@import "grids";
 @import "syntax-highlighting";
 @import "panorama";
+
+p {
+    hyphens: auto;
+}
