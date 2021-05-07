@@ -1,0 +1,25 @@
+.card {
+	box-sizing: border-box;
+	max-width: 350px;
+	min-width: 200px;
+	background: white;
+	color: #222;
+	overflow: hidden;
+	border-radius: 8px;
+	box-shadow: 0 0 8px rgba(0,0,0,0.6);
+
+	main {
+		padding: 2rem;
+		max-height: 100%;
+
+		p {
+			margin: 1rem 0 0 0;
+			text-align: justify;
+			hyphens: auto;
+		}
+	}
+}
+
+.viewer {
+	min-height: 600px;
+}
