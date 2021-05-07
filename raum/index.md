@@ -6,16 +6,25 @@ lang: de
 ref: room
 ---
 
+# Der Raum
 
+Ein [Hackerspace][2] ist ein physischer Ort der
 
-Ein [Hackerspace][2].
+* Menschen die Umgebung zur Verfügung stellen soll, um eigenverantwortlich Projekte zu realisieren
+* ein offener Raum sein soll, der grundsätzlich für alle zugänglich ist
+* Dabei weitgehend selbstorganisiert ist und von einem Verein getragen wird
 
-* ist ein physischer Ort,
-* der Menschen die Umgebung zur Verfügung stellen soll, um eigenverantwortlich Projekte zu realisieren.
-* Es soll ein offener Raum sein, der grundsätzlich für alle zugänglich 
-ist.
-* Dabei ist der Raum weitgehend selbstorganisiert und wird von einem Verein getragen.
+Das Maschinendeck soll ein Ort sein, an dem man sich mit Gleichgesinnten treffen und diskutieren kann. Dabei wird versucht eine inklusive Atmosphäre für alle zu 
+schaffen, unabhängig von Geschlecht, sexueller Orientierung, Behinderung, physischer Erscheinung, Körpergröße, Religion, und technischem Hintergrund.
+Rassismus oder sonstige Formen von menschenverachtendem Verhalten haben bei uns keinen Platz.
 
+<br>
+## Virtueller Rundgang
+<section class="viewer">
+</section>
+
+<br>
+## Ausstattung
 Den Besucher*innen steht einiges an Infrastruktur zur Verfügung:
 
 * Internet, Netzwerk und Strom
@@ -23,23 +32,8 @@ Den Besucher*innen steht einiges an Infrastruktur zur Verfügung:
 * Werkzeuge: Lötkolben, Heissklebepistole, Labornetzteil *(vollständigere Liste in userem [Wiki][1])*
 * Getränke: Club Mate, Kaffee, Wasser und Tee
 
-Der Raum kann von den Mitglieder*innen über ein elektronisches Schließsystem betreten werden.
-
-Das Maschinendeck soll ein Ort sein, an dem man sich mit Gleichgesinnten treffen und diskutieren kann. Dabei wird versucht eine inklusive Atmosphäre für alle zu 
-schaffen, unabhängig von Geschlecht, sexueller Orientierung, Behinderung, physischer Erscheinung, Körpergröße, Religion, und technischem Hintergrund.
-Rassismus oder sonstige Formen von menschenverachtendem Verhalten haben bei uns keinen Platz.
-
-<section class="viewer" style="min-height: 500px;">
-<article class="card" style="display: none;" id="werkstatt">
-    <img src="https://images.unsplash.com/photo-1562877773-a37120131ec4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1949&q=80">
-    <main>
-        <h4>Werkstattbereich</h4>
-        <p>
-            Hier befindet sich eine Elektrowerkstatt
-        </p>
-    </main>
-</article>
-</section>
+Der Raum kann von den ordentlichen Mitglieder*innen über ein elektronisches 
+Schließsystem betreten werden.
 
 [1]: http://wiki.maschinendeck.org/wiki/Der_Raum
 [2]: https://de.wikipedia.org/wiki/Hackerspace
@@ -47,19 +41,54 @@ Rassismus oder sonstige Formen von menschenverachtendem Verhalten haben bei uns 
 <script type="text/javascript" src="/js/lib/three.min.js"></script>
 <script type="text/javascript" src="/js/lib/panolens.min.js"></script>
 <script type="module">
+    import POI from "/js/modules/POI.js";
+
+    const pois = [
+        new POI(4251, -520, 2564, "Werkstatt", "werkstatt", 
+"/images/raum/werkstatt.png"),
+        new POI(-4947, -351, 590, "Toiletten und Lager", "ddd"),
+        new POI(-4369, -813, -2273, "Retrospiele-Ecke", [
+            `Hier befinden sich allerlei alte und neue Spielekonsolen.`,
+            `Die recht gemütlichen Couches laden zum entspannten Daddeln ein
+            und eine ausfahrbare Leinwand ermöglicht ein wenig Kinofeeling an
+            Filmabenden.`
+        ], 
+"/images/raum/retroecke.png"),
+        new POI(-4961, -95, -565, "Küche und Nertzwerkraum", "ddd", 
+"/images/raum/serverraum.png"),
+        new POI(-4766, -307, 1455, "Mitgliederfächer", "dddd", 
+"/images/raum/faecher.png"),
+        new POI(-4849, -971, -666, "Bar/Theke", "cwcwc", "/images/raum/bar.png"),
+        new POI(4804, -549, 1230, "3D-Druck Werkstatt", "dwdwd", 
+"/images/raum/3ddruck.png"),
+        new POI(-250, 45, 4985, "Elektrowerkstatt", [
+            "Werrrrrr",
+            `Werrrrrr dqwk dqwd qwnd qwd lnwd qwlknd qwldkqnw dlk 
+qwndlqkwdnqlkd nw dlknwdwd lknwqdnwlkdnqwldwqnd lkqwndl df 
+niffn3qflinf3 wlfnfwelnfwef ewlknfewf ewf wefw wf AAA`
+        ], "/images/raum/elektrowerkstatt.png"),
+    ];
+
+
+
     document.addEventListener("DOMContentLoaded", () => {
-        const panorama = new PANOLENS.ImagePanorama("/images/raum_panorama.jpg");
-        const viewer   = new PANOLENS.Viewer({
-            container : document.querySelector(".viewer"),
+        const container = document.querySelector(".viewer");
+        const panorama  = new PANOLENS.ImagePanorama("/images/raum_panorama.jpg");
+        const viewer    = new PANOLENS.Viewer({
+            container : container,
             output    : "console"
         });
-        
-        const werkstatt = new PANOLENS.Infospot();
-        werkstatt.position.set(-250, 45, 4985);
-        werkstatt.addHoverElement(document.querySelector("#werkstatt"), -499);
 
+        for (const poi of pois) {
+            const element = poi.markup();
+            container.prepend(element);
 
-        panorama.add(werkstatt);
+            const obj = new PANOLENS.Infospot();
+            obj.position.set(poi.x, poi.y, poi.z);
+            obj.addHoverElement(element, -499);
+            
+            panorama.add(obj);
+        }
 
         viewer.add(panorama); 
     });
