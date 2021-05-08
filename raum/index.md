@@ -17,7 +17,7 @@ Den Besucher:innen steht einiges an Infrastruktur zur Verfügung:
 
 * Internet, Netzwerk und Strom
 * Arbeitstische und Couches
-* Werkzeuge: Lötkolben, Heißklebepistole, Labornetzteil *(erweiterete Liste in 
+* Werkzeuge: Lötkolben, Heißklebepistole, Labornetzteil *(erweiterte Liste in 
   unserem [Wiki][1])*
 * Auszug aus dem Getränkeangebot: Club Mate, Mio Mio Mate, Fritz!Kola, Fritz!Limo, 
   Apfelschorle, Kaffee, Wasser, Tee u.m.
