@@ -24,8 +24,8 @@
           {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
 
           {% if pages.size > 0 or posts.size > 0 %}
+          {% comment %}
             <span> | </span>
-
             {% for post in posts %}
               <a href="{{ post.url }}" class="page-lang {{ post.lang }}">{{ post.lang }}</a>
             {% endfor %}
@@ -33,6 +33,7 @@
             {% for page in pages %}
               <a href="{{ page.url }}" class="page-lang {{ page.lang }}">{{ page.lang }}</a>
             {% endfor %}
+          {% endcomment %}
           {% endif %}
 
         </div>
