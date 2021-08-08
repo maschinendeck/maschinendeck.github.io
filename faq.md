@@ -12,7 +12,7 @@ ref: faq
 * A: JA.
 
 * *F: Wann ist denn jemand da?*
-* A: Auf jeden Fall Dienstags ab 20:00 Uhr, aber meld dich mal im [IRC][1], da können andere Treffen abgesprochen werden.
+* A: Auf jeden Fall Dienstags ab 20:00 Uhr, aber meld dich mal im [Discord][1], da können andere Treffen abgesprochen werden.
 
 * *F: Was macht ihr denn da so?*
 * A: Das liegt ganz an den anwesenden Leuten. Es gibt keine festgelegte Ordnung, was wann gehackt werden soll. Jeder bringt seine Ideen und Projekte mit und dann findet man sich entweder zusammen, oder arbeitet alleine dran.
@@ -27,7 +27,7 @@ ref: faq
 * A: Vielleicht. Wenn jemand Lust darauf hat. Aber komm doch vorbei und wir machen das zusammen.
 
 * *F: Wo kann man mit euch online in Kontakt treten?*
-* A: Wir kommunizieren über einen [Discord][2] Server.
+* A: Wir kommunizieren über einen [Discord][1] Server.
 
-[1]: https://kiwiirc.com/client/irc.freenode.net/maschinendeck
-[2]: https://discord.gg/e5xYxA8
+[1]: https://discord.gg/e5xYxA8
+
