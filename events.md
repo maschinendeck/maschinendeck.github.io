@@ -13,7 +13,7 @@ Jede*r Interessierte ist grundsätzlich für jede Veranstaltung eingeladen.
 
 Es gibt einige regelmäßige Treffen:
 
-  - Jeden Mittwoch ist Chaostreff, ab 20:00 Uhr und meistens bis um Mitternacht. Da geht:
+  - Jeden Dienstag ist Chaostreff, ab 20:00 Uhr und meistens bis um Mitternacht. Da geht:
     - Lockeres Rumsitzen
     - Neuigkeiten austauschen
     - Projekte und Ideen ausarbeiten
