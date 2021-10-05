@@ -11,7 +11,7 @@ Everybody who is interested to organise events or use the space can send us an e
 
 There are some regular meetups:
 
-  - Chaostreff, Every Wednesday from 20:00
+  - Chaostreff, Every Tuesdaz from 20:00
     - Talk
     - Exchange news
     - Develop projects and ideas
