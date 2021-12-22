@@ -16,7 +16,7 @@ hätten, der Pandemie sei Dank, aber wir haben und dennoch gut eingelebt und uns
 die vier Wände zu Eigen gemacht und uns häuslich eingerichtet. Es gab nicht
 viele *(eigentlich keine nennenswerten)* Chaosveranstaltungen und auch im
 üblichen Umfeld war es eher ruhig. Wir konnten wieder die Bitgames unterstützen,
-die als eine der wenigern Veranstaltungen tatsächlich stattfanden und hatten
+die als eine der wenigen Veranstaltungen tatsächlich stattfanden und hatten
 auch sehr viel Freude daran. Auch unsere Einweihungsparty hat es in diesem Jahr
 wieder nicht auf die Agenda geschafft, vielleicht klappt das ja im nächsten
 Jahr endlich. Es wurde dennoch einiges geschafft und gehackt im "neuen" Raum,
