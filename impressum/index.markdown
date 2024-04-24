@@ -14,7 +14,7 @@ kennenzulernen, bieten wir auf einem unserer [Treffen](https://wiki.maschinendec
 Anschrift:
 <address>
 Maschinendeck Trier e. V.<br />
-Christian Adams, Clemens Sill, Eileen Neumann<br />
-Karl-Marx-Straße 18<br />
-54290 Trier
+Christian Adams, Eileen Neumann, Michael Ochmann<br />
+Eurener Straße 48Z<br />
+54294 Trier
 </address>

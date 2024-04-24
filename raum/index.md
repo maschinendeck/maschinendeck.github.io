@@ -15,17 +15,18 @@ ref: room
 ## Ausstattung
 Den Besucher:innen steht einiges an Infrastruktur zur Verfügung:
 
-* Internet, Netzwerk und Strom
+* ~~Internet~~, Netzwerk und Strom
 * Arbeitstische und Couches
 * Werkzeuge: Lötkolben, Heißklebepistole, Labornetzteil *(erweiterte Liste in 
   unserem [Wiki][1])*
 * Auszug aus dem Getränkeangebot: Club Mate, Mio Mio Mate, Fritz!Kola, Fritz!Limo, 
   Apfelschorle, Kaffee, Wasser, Tee u.m.
 
+<!--
 <br>
 **Schau dir die genaue Aufteilung doch gerne visuell im virtuellen Rundgang 
 an!**
-
+-->
 <br>
 Der Raum kann von den ordentlichen Mitgliedern über ein elektronisches
 Schließsystem betreten werden.
@@ -47,6 +48,7 @@ Rassismus oder sonstige Formen von menschenverachtendem Verhalten haben bei uns 
 
 </section>
 
+<!--
 <br>
 ## Virtueller Rundgang
 <section class="viewer">
@@ -54,8 +56,6 @@ Rassismus oder sonstige Formen von menschenverachtendem Verhalten haben bei uns 
 
 <br>
 
-[1]: http://wiki.maschinendeck.org/wiki/Der_Raum
-[2]: https://de.wikipedia.org/wiki/Hackerspace
 
 <script type="text/javascript" src="/js/lib/three.min.js"></script>
 <script type="text/javascript" src="/js/lib/panolens.min.js"></script>
@@ -141,3 +141,6 @@ Rassismus oder sonstige Formen von menschenverachtendem Verhalten haben bei uns 
         viewer.add(panorama); 
     });
 </script>
+-->
+[1]: http://wiki.maschinendeck.org/wiki/Der_Raum
+[2]: https://de.wikipedia.org/wiki/Hackerspace
