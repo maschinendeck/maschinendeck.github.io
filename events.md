@@ -17,8 +17,8 @@ Es gibt einige regelmäßige Treffen:
     - Lockeres Rumsitzen
     - Neuigkeiten austauschen
     - Projekte und Ideen ausarbeiten
-  - Das [Trierer Python Meetup](http://www.meetup.com/de-DE/PythonTrier/) findet jeden zweiten Dienstag im Monat statt.
-  - Jeden ersten Montag des Monats findet der Freifunk Stammtisch an einem immer wechselnden Ort statt. Aktuelle Informationen sind auf [trier.freifunk.net](https://trier.freifunk.net/) zu finden.
+  - ~~Das [Trierer Python Meetup](http://www.meetup.com/de-DE/PythonTrier/) findet jeden zweiten Dienstag im Monat statt.~~
+  - ~~Jeden ersten Montag des Monats findet der Freifunk Stammtisch an einem immer wechselnden Ort statt. Aktuelle Informationen sind auf [trier.freifunk.net](https://trier.freifunk.net/) zu finden.~~
 
 Weiterhin gibt es unregelmäßige Veranstaltungen, die dann über die Website, [Mailingliste](https://mailings.brandin.de/listinfo/public), und Mundpropaganda weitergegeben werden.
 
@@ -29,9 +29,13 @@ Weiterhin gibt es unregelmäßige Veranstaltungen, die dann über die Website, [
 #### Kommende Veranstaltungen
 <p class="upcoming-events"></p>
 
-CCC Camp 2019
+* [NIV 2024/2](https://niv.hochschule-trier.de)
+* [GPN22](https://entropia.de/GPN22)
 
 #### Vergangene Veranstaltungen
+
+* [38C3](https://events.ccc.de/congress/2023/infos/startpage.html)
+* [NIV 2023/2](https://niv.hochschule-trier.de)
 
 <p class="previous-events"></p>
 
