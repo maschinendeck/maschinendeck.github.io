@@ -2,7 +2,7 @@
 title: "DIDay Treff"
 layout: post
 lang: de
-ref: umzug2024
+ref: diday202606
 ---
 
 ![](/images/posts/diday.png){: width="250px" }
